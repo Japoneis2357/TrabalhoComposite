@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb77da1-ed05-427b-9502-0fa369ca23bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeComposite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Cardapio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ItemCardapio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/categoria.java" afterDir="false" />
+    <list default="true" id="4bb77da1-ed05-427b-9502-0fa369ca23bc" name="Changes" comment="revisão e realização dos testes">
+      <change afterPath="$PROJECT_DIR$/src/test/cardapioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeComposite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeComposite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Cardapio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Cardapio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ItemCardapio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ItemCardapio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Categoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3DddUBkd0XHsyHbgqmV2EGo6viN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CardapioTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -51,6 +52,13 @@
     "onboarding.tips.debug.path": "C:/Users/lfmis/IdeaProjects/AtividadeComposite/src/Main.java"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,5 +69,9 @@
       <updated>1778615897341</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revisão e realização dos testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="revisão e realização dos testes" />
   </component>
 </project>
